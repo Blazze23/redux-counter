@@ -17,6 +17,7 @@ body {
 header {
   background-color: #b38b59;
   padding: 1rem 2rem;
+  width: 100%;
 }
 
 h1 {
