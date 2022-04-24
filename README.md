@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Simple React Redux Counter
+
+This is a simple counter app, where you can increment counter, decrement, increase by 10, decrease by 5 and also toggle counter.
+
+This app was built in React 18, and it uses Redux for store state management.
+
+Live preview of this app is available at:
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
