@@ -4,7 +4,9 @@ import Counter from "./components/Counter";
 function App() {
   return (
     <Fragment>
-      <h1>Simple Redux Counter</h1>
+      <header>
+        <h1>Simple Redux Counter</h1>
+      </header>
       <Counter />
     </Fragment>
   );

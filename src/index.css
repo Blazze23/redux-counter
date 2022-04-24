@@ -9,14 +9,19 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #b38b59;
+  color: #113e21;
   background-color: #fefefe;
   text-align: center;
 }
 
+header {
+  background-color: #b38b59;
+  padding: 1rem 2rem;
+}
+
 h1 {
   font-size: 2rem;
-  margin-top: 3rem;
+  margin-top: 2rem;
 }
 
 button {

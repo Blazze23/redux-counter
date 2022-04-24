@@ -4,7 +4,7 @@ This is a simple counter app, where you can increment counter, decrement, increa
 
 This app was built in React 18, and it uses Redux for store state management.
 
-Live preview of this app is available at:
+Live preview of this app is available at: https://simple-redux-counter.netlify.app/
 
 ## Getting Started with Create React App
 
